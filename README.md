@@ -6,14 +6,14 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShaCoMiRo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaCoMiRo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
-
+<!---
 <div align=center>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/98dltjdgus/)
 
 </div>
 
-<!---
+
 - 👋 Hi, I’m @ShaCoMiRo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
