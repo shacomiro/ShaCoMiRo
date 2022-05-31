@@ -1,6 +1,6 @@
 <div align=center>
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=200&section=header&text=Hello&desc=Sunghyun's%20here!&fontSize=100&fontAlign=45&descSize=30&descAlign=65&descAlignY=75" /><br>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hello&desc=Sunghyun's%20here!&fontSize=100&fontAlign=45&descSize=30&descAlign=65&descAlignY=75" /><br>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShaCoMiRo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
   </div>
   <div>
