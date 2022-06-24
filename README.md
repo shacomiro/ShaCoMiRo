@@ -5,13 +5,11 @@
   </div>
   <div>
     <h2>👋 Introduction</h2>
-    방문하신 걸 환영합니다!<br>
-    백엔드 개발자 준비생입니다. 언제나 골똘히 생각하고 고민하고 공부하고 있습니다!<br>
-    언제나 즐거운 코딩되세요! 🙂<br>
+    어서오세요!🙂
   </div>
   <div>
     <h2>🪄 Skills</h2>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   </div>
   <div>
     <h2>✍️ Learning</h2>
